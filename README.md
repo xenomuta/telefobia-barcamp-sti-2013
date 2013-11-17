@@ -1,5 +1,5 @@
-Telefobia
-=========
+Telefobia, Ciber-Tigueraje y Paranoia
+=====================================
 
 *Documentación sobre ataques telefónicos (tradicional y VoIP) demostrados en el BarCamp STI 2013.*
 
@@ -9,4 +9,20 @@ Trabajo en progreso...
 Pronto estaré subiendo documentación y algunos códigos que explican el transfondo y 
 el funcionamiento de las demostraciones presentadas.
 
-## Vuelva pronto...
+### ToDo:
+
+- Telefobia: Documentación y códigos demostrativos
+  - Redial-Dump
+  - Caller ID spoofer
+  - Caller ID unspoofer
+  - Spy-Bridge
+
+- Ciber-Tigueraje
+  - Descubrir nombre de subscriptor telefónico
+  - Información en facturas y basura
+  - SmartPhone = Mapa abierto
+
+- Chulerias
+  - Konami Code Login  ;)
+  - Musica DTMF
+
