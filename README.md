@@ -1,6 +1,8 @@
 Telefobia, Ciber-Tigueraje y Paranoia
 =====================================
 
+*UPDATE*: He retomado el desarrollo de la suite de ataques telefobia[aquí](https://github.com/xenomuta/telefobia).
+
 *Documentación sobre ataques telefónicos (tradicional y VoIP) demostrados en el BarCamp STI 2013.*
 
 Slides: https://speakerdeck.com/xenomuta/telefobia-ciber-tigueraje-y-paranoia
